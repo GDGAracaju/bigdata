@@ -1,0 +1,5 @@
+amor	+10
+odio	-10
+morte	-3
+spam	-1
+ganhar	+4
